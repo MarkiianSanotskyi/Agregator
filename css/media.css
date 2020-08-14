@@ -1,0 +1,85 @@
+@media (min-width: 1200px) and (min-height: 780px){
+.top-navigation{max-width:640px;}
+
+ul.nav-list li a {
+
+    font-size: 13px;
+ 
+    padding: 0px 26px;
+
+
+}
+
+.top-header-buttons a {
+    font-size: 13px !important;
+}
+
+.our-advantages-box {
+  
+    background-size: 1140px;
+}
+ul.advantages-list {
+    width: 1140px;
+
+}
+
+ul.advantages-list li i {
+    top: -31px;
+    left: -5px;
+}
+
+ul.advantages-list li {
+ 
+    width: 309px;
+  
+}
+
+ul.advantages-list li .text-box {
+
+    width: 220px;
+
+    margin-top: -3px;
+}
+
+ul.advantages-list li:nth-child(3) {
+    width: 209px;
+}
+
+ul.advantages-list li:nth-child(5) .text-box, ul.advantages-list li:nth-child(7) .text-box {
+    margin-top: -5px;
+    margin-left: 37px;
+}
+ul.advantages-list li:nth-child(5) i, ul.advantages-list li:nth-child(7) i {
+ 
+    bottom: -5px;
+    right: -23px;
+
+}
+ul.advantages-list li:nth-child(6) {
+    width: 234px;
+}
+ul.logo-list li {
+    margin: 0px 30px;
+}
+ul.rates-list li {
+
+    width: 215px;
+    
+}
+.contact-box input[type="email"], .contact-box input[type="text"] {
+    width: 251px;
+
+}
+.contact-box .input-box.inline {
+    width: 251px;
+  
+}.jq-selectbox__select {
+    width: 251px;
+
+}
+.contact-box textarea {
+    width: 528px;
+}
+ul.rates-list li a{  background-position: 10px 27px;}
+ul.rates-list li a{font-size:16px;}
+	}
